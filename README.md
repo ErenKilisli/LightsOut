@@ -11,7 +11,5 @@ The gameplay of the game is quite simple, when the lights turn out, the person w
 There were some errors uploading Unreal Project files to GitHub, Link for this and all Game Files(Unreal Engine): https://drive.google.com/drive/folders/1W1QGJH4z8B2WRWj6D_pvyuMqB3qBfUnQ?usp=sharing
 
 Other gameplay videos from my Games: https://www.youtube.com/watch?v=5CH33vElWk0&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR&index=2 
-
 or
-
 https://drive.google.com/drive/folders/1j43fUVWQj0yC-AOMdPqDBQ6rRsC8UufO?usp=sharing
